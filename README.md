@@ -18,6 +18,7 @@ Bilgisayarınızda Flutter ve Dart SDK'nın kurulu olduğundan emin olun.
 Terminal üzerinden projenin ana dizinine gidin.
 
 Kodu derlemek ve terminalde çıktıları görmek için aşağıdaki komutu çalıştırın:
+
 dart run main.dart
-Geliştirici
+
 Yunus Ömer Kılıç
